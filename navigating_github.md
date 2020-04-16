@@ -10,7 +10,7 @@
 
 ~Or Cross them out~
 
-#How To
+# How To
 
 "To open my participation repo in Jupyter I run" jupyter notebook --notebook-dir "C:\Users\mikestragapede\Documents\GitHub"
 
